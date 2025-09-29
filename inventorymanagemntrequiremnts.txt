@@ -1,0 +1,1 @@
+admin, page product id , product type 
